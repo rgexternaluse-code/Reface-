@@ -1,0 +1,6 @@
+{
+  "name": "REFACE",
+  "description": "100% offline, on-device AI video face replacement and face swap application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
